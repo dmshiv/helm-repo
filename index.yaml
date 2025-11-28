@@ -9,7 +9,7 @@ entries:
     name: payments
     type: application
     urls:
-    - payments/payments-0.1.0.tgz
+    - payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: shipping
     type: application
     urls:
-    - shipping/shipping-0.1.0.tgz
+    - shipping-0.1.0.tgz
     version: 0.1.0
 generated: "2025-11-28T22:14:27.359670835+05:30"
